@@ -25,10 +25,16 @@ Beyond using your judgement, here are some helpful settings to best maintain the
 - Screen Lock: on
 - Screen Lock Timeout: Instant (disable biometrics)
 - Show Calls In Recents: off
-- Advanced: Always Relay Calls: on
+- Advanced: [Always Relay Calls](https://signal.org/blog/signal-video-calls/#location-privacy): on
 - Incognito keyboard: on (Android only)
 
 ### Phone Settings:
 
 - Notifications > Disable notifications for Signal
 - Set unlock to require a 6 digit passcode (minimum) - require passcode even if you use face/touch
+
+## References:
+
+- [How to delete your Signal account](https://support.signal.org/hc/en-us/articles/360007061192-Delete-Account)
+- [Signal's published government requests](https://signal.org/bigbrother/) (unclear if actively maintained)
+- [Signal's privacy policy](https://signal.org/legal/#privacy-policy)
